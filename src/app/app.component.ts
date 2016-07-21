@@ -9,5 +9,4 @@ import {TodoAppComponent} from './todo-app/todo-app.component'
   directives: [TodoAppComponent] 
 })
 export class AppComponent {
-  title = 'Todo Application';
 }
